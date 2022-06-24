@@ -1,7 +1,7 @@
 # dioRN1
-#Introdução ao React Native
+# Introdução ao React Native
 
-#Conteúdo
+#Conteúdo 
 - Conhecendo o React Native
 - O que é o recat-native?
 -  O que é  cross-platform?
